@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>I love deploying React Apps</h1>
+    <h1>I love deploying React Apps 2.0</h1>
   );
 }
 
